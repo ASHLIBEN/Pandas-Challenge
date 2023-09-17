@@ -1,0 +1,21 @@
+
+# PyCity Schools Analysis
+
+#  SUMMARY 
+
+ Provided 2 datasets consist of school details and student details which includes student math and reading scores. 
+- Needed to find a high-level snapshot of the district's key metrics which includes total number of schools ,Total Schools,
+ Total Students,Total Budget,Average Math Score,Average Reading Score,Passing Math,% Passing Reading,% Overall Passing. 
+- Another major summary is to create a DataFrame called per_school_summary with columns for the calculations with School 
+ Type, Total Students,Total School Budget ,Per Student Budget ,Average Math Score ,Average Reading Score ,% Passing Math ,%Passing - Reading ,% Overall Passing Rate.
+- With respect to per school summary they asked to find highest and lowest performing schools
+- Also found spending ranges per student, school size, scores by school type.
+
+  
+# ANALYSIS 
+- The school type "Charter" has highest overall passing rate percentage compare to "District school type"
+- And school size between 2000 to 5000 holds lesser overall passing while compare to school size small and medium
+- Also the least spending range per student has the higest overall passing rate.
+# CONCLUSION
+- Charter schools outweights there perfomance in provided academic aspects thus there over all passings are higher.
+- High spending per student doesn't mean that the perform very well. 
